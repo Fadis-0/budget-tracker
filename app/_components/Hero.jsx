@@ -18,7 +18,7 @@ function Hero() {
             </>
           }
         >
-        
+        </ContainerScroll>
       </div>
     </section>
   );
