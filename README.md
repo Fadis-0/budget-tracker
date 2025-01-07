@@ -1,2 +1,2 @@
-# Budget Tracker App.
+# Budget Tracker App
 
